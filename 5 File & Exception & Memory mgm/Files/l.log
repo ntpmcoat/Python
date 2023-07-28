@@ -1,0 +1,17 @@
+2023-07-21 10:36:55,522 we are iterating our list , local var --> i[1, 2, 3, 4, 5, 6, 7, [11, 33], 'nm', 'jhj']
+2023-07-21 10:36:55,522 we are iterating our list , local var --> i[1, 2, 3, 4, 5, 6, 7, [11, 33], 'nm', 'jhj']
+2023-07-21 10:36:55,522 we are iterating our list , local var --> i[1, 2, 3, 4, 5, 6, 7, [11, 33], 'nm', 'jhj']
+2023-07-21 10:36:55,522 we are iterating our list , local var --> i[1, 2, 3, 4, 5, 6, 7, [11, 33], 'nm', 'jhj']
+2023-07-21 10:36:55,522 we are iterating our list , local var --> i[1, 2, 3, 4, 5, 6, 7, [11, 33], 'nm', 'jhj']
+2023-07-21 10:36:55,522 we are iterating our list , local var --> i[1, 2, 3, 4, 5, 6, 7, [11, 33], 'nm', 'jhj']
+2023-07-21 10:36:55,522 we are iterating our list , local var --> i[1, 2, 3, 4, 5, 6, 7, [11, 33], 'nm', 'jhj']
+2023-07-21 10:36:55,522 we are iterating our list , local var --> i[1, 2, 3, 4, 5, 6, 7, [11, 33], 'nm', 'jhj']
+2023-07-21 10:36:55,522 in if, to check list type [11, 33]
+2023-07-21 10:36:55,522 in another for loop, to check list inside list element[11, 33]
+2023-07-21 10:36:55,522 in if
+2023-07-21 10:36:55,522 in another for loop, to check list inside list element[11, 33]
+2023-07-21 10:36:55,522 in if
+2023-07-21 10:36:55,522 we are iterating our list , local var --> i[1, 2, 3, 4, 5, 6, 7, [11, 33], 'nm', 'jhj']
+2023-07-21 10:36:55,522 we are iterating our list , local var --> i[1, 2, 3, 4, 5, 6, 7, [11, 33], 'nm', 'jhj']
+2023-07-21 10:36:55,522 Int -->[1, 2, 3, 4, 5, 6, 7, 11, 33] 
+ Str -->['nm', 'jhj']

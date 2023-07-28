@@ -1,0 +1,18 @@
+INFO:root:hi checking
+INFO:root:Logging and debugging python
+ERROR:root:hi checkin 
+INFO:root:we are iterating our list , local var --> i
+INFO:root:we are iterating our list , local var --> i
+INFO:root:we are iterating our list , local var --> i
+INFO:root:we are iterating our list , local var --> i
+INFO:root:we are iterating our list , local var --> i
+INFO:root:we are iterating our list , local var --> i
+INFO:root:we are iterating our list , local var --> i
+INFO:root:we are iterating our list , local var --> i
+INFO:root:in if, to check list type
+INFO:root:in another for loop, to check list inside list element
+INFO:root:in if
+INFO:root:in another for loop, to check list inside list element
+INFO:root:in if
+INFO:root:we are iterating our list , local var --> i
+INFO:root:we are iterating our list , local var --> i

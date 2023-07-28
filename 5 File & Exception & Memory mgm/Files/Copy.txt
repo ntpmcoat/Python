@@ -1,0 +1,3 @@
+ we cannot create an instance of an abstract class in most programming languages, including Python.
+Abstract classes are designed to be incomplete and serve as a blueprint for subclasses to inherit from. 
+They define the structure, common interface, and possibly some default behavior for the subclasses to follow.
